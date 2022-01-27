@@ -1,5 +1,6 @@
 #Prompt 1
 Avg_snow_depth = c(2.5, 3, 5, 4.5)
+#Converting depths from inches to feet
 Avg_snow_depth/12
 
 #Prompt 2
@@ -15,3 +16,7 @@ highPeaks = data.frame(Names = name_peaks,
                        Ascent = climb_ascent,
                        Trip_Length = round_trip_length)
 highPeaks
+
+#Homework Questions
+#Question 1
+
